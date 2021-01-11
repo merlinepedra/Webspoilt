@@ -1,3 +1,4 @@
+#author : Sayyed Viquar AHmed ( DeadSHot0x7) 
 from tqdm import tqdm 
 import time 
 import pyfiglet
