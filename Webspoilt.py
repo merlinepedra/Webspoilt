@@ -62,7 +62,10 @@ def ddos_attack(a,j,s,i):
 if __name__ == "__main__":
     while(1):
         try:
-            print("Welcome to the Webspoilt")
+            banner=pyfiglet.figlet_format("Webspoilt", font="slant")
+            print(banner)
+            print("\t Script by DeadShot0x7")
+            print("\n")
             print("1.Scann Ip Address 2.DDoS a Website")
             print("3.Update           4.Exit")
             ans=int(input("Select your option\t"))
