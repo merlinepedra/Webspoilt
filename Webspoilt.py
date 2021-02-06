@@ -5,6 +5,7 @@ import pyfiglet
 import os
 import socket
 import urllib.request
+import logging
 
 for i in tqdm (range (101), 
 			desc="Loading…", 
@@ -65,6 +66,15 @@ if __name__ == "__main__":
             banner=pyfiglet.figlet_format("Webspoilt", font="slant")
             print(banner)
             print("\t Script by DeadShot0x7")
+            print("\n")
+            print("DeadShot0x7 will not responsible for the loss you have done or made ")
+            dec=str(input("y or n"))
+            if dec == "y" or dec == "Yes" or dec == "yes":
+                logging.basicConfig(format='%(asctime)s - %(message)s', level=logging.INFO)
+                print("Yes I'm Responsible for the loss I've made.")
+            else :
+                time.sleep(1)
+                break
             print("\n")
             print("1.Scann Ip Address 2.DDoS a Website")
             print("3.Update           4.Exit")
