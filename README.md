@@ -10,27 +10,27 @@ You can download the script on various platform
  Linux  :
  
  1. Clone the Repository  by using git clone command 
- 2. git clone 007-TheBond
- 3. cd 007-TheBond
+ 2. git clone Webspoilt
+ 3. cd Webspoilt
  4. pip install -r Requirments.txt or run  setup.sh
- 5. python3 007-TheBond 
+ 5. python3 Webspoilt
  
  
  Macintosh : 
  
   1. Clone the Repository  by using git clone command 
- 2. git clone 007-TheBond
- 3. cd 007-TheBond
+ 2. git clone Webspoilt
+ 3. cd Webspoilt
  4. pip install -r Requirments.txt or run  setup.sh
- 5. python3 007-TheBond 
+ 5. python3 Webspoilt
  
  
  Termux :
   1. Clone the Repository  by using git clone command 
- 2. git clone 007-TheBond
- 3. cd 007-TheBond
+ 2. git clone Webspoilt
+ 3. cd 00Webspoilt
  4. pip install -r Requirments.txt or run  setup.sh
- 5. python3 007-TheBond 
+ 5. python3 Webspoilt
 
 # Testing 
 this script is tested  on these operating system 
