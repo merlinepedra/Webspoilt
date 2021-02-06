@@ -2,3 +2,47 @@
 This script will you help to find the information about the website and to help in Penetrate testing 
 # Discalimer
 Disclaimer : - DeadShot0x7 will not responsible if you misuse the script , by using  the script you're that you will be responsible for the loss you have made 
+# ScrenShot of the Script
+![Screenshot](ScrnShot.JPG)
+# Download
+You can download the script on various platform 
+
+ Linux  :
+ 
+ 1. Clone the Repository  by using git clone command 
+ 2. git clone 007-TheBond
+ 3. cd 007-TheBond
+ 4. pip install -r Requirments.txt or run  setup.sh
+ 5. python3 007-TheBond 
+ 
+ 
+ Macintosh : 
+ 
+  1. Clone the Repository  by using git clone command 
+ 2. git clone 007-TheBond
+ 3. cd 007-TheBond
+ 4. pip install -r Requirments.txt or run  setup.sh
+ 5. python3 007-TheBond 
+ 
+ 
+ Termux :
+  1. Clone the Repository  by using git clone command 
+ 2. git clone 007-TheBond
+ 3. cd 007-TheBond
+ 4. pip install -r Requirments.txt or run  setup.sh
+ 5. python3 007-TheBond 
+
+# Testing 
+this script is tested  on these operating system 
+
+1. Kali Linux
+2. Parrot Linux
+3. Termux ( find Instagram user is not working currently)
+4. Garuda Linux 
+# Like and  Frok
+Leave a like to the Repository  and feel free to fork the project  🙂
+
+# Disscussion and Sponsor
+if you have any idea or Sugesstion for the tool do let's us know in the Disscussion and you your view will be Appriciated 🙌 , If you want to Donate money contanct me on instagram
+# Are you looking for contribution 
+Yes, You can contribute to this contact me for contribution  to give you the role .
