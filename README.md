@@ -4,6 +4,10 @@ This script will you help to find the information about the website and to help 
 Disclaimer : - DeadShot0x7 will not responsible if you misuse the script , by using  the script you're that you will be responsible for the loss you have made 
 # ScrenShot of the Script
 ![Screenshot](ScrnShot.JPG)
+#Features
+1. You can find Ip Address  of the website
+2. You can do Ddos Attack on website 
+3. Bruteforce ( Instagram ,  Spotify  ,  Twitter , Netfilx ,  Amazon Prime video , Pinrest ) [ Coming soon ]
 # Download
 You can download the script on various platform 
 
