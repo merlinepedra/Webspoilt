@@ -8,6 +8,7 @@ Disclaimer : - DeadShot0x7 will not responsible if you misuse the script , by us
 1. You can find Ip Address  of the website
 2. You can do Ddos Attack on website 
 3. Bruteforce ( Instagram ,  Spotify  ,  Twitter , Netfilx ,  Amazon Prime video , Pinrest ) [ Coming soon ]
+4. Port Scanner [Coming soon]
 # Download
 You can download the script on various platform 
 
