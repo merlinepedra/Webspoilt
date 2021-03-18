@@ -1,4 +1,4 @@
-#author : Sayyed Viquar AHmed ( DeadSHot0x7) 
+#author : Sayyed Viquar Ahmed (DeadSHot0x7) 
 from tqdm import tqdm 
 import time 
 import pyfiglet
@@ -76,8 +76,9 @@ if __name__ == "__main__":
                 time.sleep(1)
                 break
             print("\n")
-            print("1.Scann Ip Address 2.DDoS a Website")
-            print("3.Update           4.Exit")
+            print("1.Scann Ip Address     2.DDoS a Website")
+            print("3.Brtueforce           4.Port Scanner")
+            print("5.Update               6.Exit")
             ans=int(input("Select your option\t"))
             if ans == 1:
                 sitename=str(input("Enter The Website name \t"))
@@ -90,9 +91,22 @@ if __name__ == "__main__":
                 bot=str(input("Enter Number Thread you want to send"));
                 ddos_attack(target_ip,port,ip_address,bot);
             if ans == 3 :
-                os.system("git pull")
+                print("\n \n ")
+                print("\t This Feature is comming Soons")
+                print("\n \n")
+                
             if ans == 4 :
                 print("CLosing the application ")
                 break
+            if ans ==5:
+                try:
+                    os.system("git pull")
+                except Exception as e :
+                    print("Can't update the script please check your internet Connection")
+            if ans == 6:
+                time.sleep("1")
+                break 
+
         except :
             print("Cant Open th appliaction Due to some Error")
+            
