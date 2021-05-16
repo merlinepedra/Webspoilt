@@ -47,7 +47,11 @@ this script is tested  on these operating system
 # Like and  Frok
 Leave a like to the Repository  and feel free to fork the project  🙂
 
-# Disscussion and Sponsor
-if you have any idea or Sugesstion for the tool do let's us know in the Disscussion and you your view will be Appriciated 🙌 , If you want to Donate money contanct me on instagram
+# Disscussion 
+if you have any idea or Sugesstion for the tool do let's us know in the Disscussion and you your view will be Appriciated 🙌 , 
 # Are you looking for contribution 
 Yes, You can contribute to this contact me for contribution  to give you the role .
+#sponsor 
+This script is maintain by standalone developer , Support the Deveoper By donating some amount of money                     
+buymeacoffee.com/Deadshot0x7                
+
